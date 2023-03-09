@@ -1,9 +1,6 @@
 namespace Code
 {
     public static class RtsCodeTest{
-        //constructor
-
-        //deconstructor
 
         //aboveBelow
         public static Dictionary<string, int> aboveBelow(int[] theList, int theComparisonValue)
